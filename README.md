@@ -7,4 +7,6 @@ How to use:
 2. Download the files and extract
 3. Open up "PressButton.py" and set the key you use to cast and reel (default: 'e')
 5. Go to fishing spot, start bot, and mouseover the water so you can cast 
-6. Go afk.
+6. Enjoy.
+
+Further updates are unlikely as I no longer play LostArk.
