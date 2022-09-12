@@ -12,3 +12,5 @@ How to use:
 Further updates are unlikely as I no longer play LostArk.
 
 If you feel the reeling is inaccurate, play with the "confidence" setting on line 37. The closer to 1.0, the more exact match for the "!" is when fish bite.
+
+Tested on 1920x1080 only. Other resolutions may or may not work.
